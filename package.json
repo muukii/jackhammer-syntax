@@ -1,0 +1,15 @@
+{
+  "name": "bliss-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Dark and Bright Syntax Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/muukii/bliss-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
