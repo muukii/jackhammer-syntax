@@ -1,13 +1,13 @@
 {
-  "name": "bliss-syntax",
+  "name": "jackhammer-syntax",
   "theme": "syntax",
-  "version": "3.0.1",
+  "version": "1.0.0",
   "description": "Dark and Bright Syntax Theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/muukii/bliss-syntax",
+  "repository": "https://github.com/muukii/jackhammer-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
