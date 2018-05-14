@@ -2,8 +2,8 @@
 
 ## Contributing
 
-If you have some proposal, I will cccept gladly. 🤠
-I think there are some point that should be improved.
+If you have some proposal, I will accept gladly. 🤠
+I think there are some points that should be improved.
 
 ## Editor / IDE
 
