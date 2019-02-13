@@ -8,8 +8,8 @@ I think there are some points that should be improved.
 ## Editor / IDE
 
 - [x] Atom
-- [x] Xcode
+- [ ] Xcode
 
 ## Atom
 
-![](atom-sample.png)
+[![Atom Sample](atom-sample.png)](https://atom.io/themes/jackhammer-syntax)
