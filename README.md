@@ -8,7 +8,7 @@ I think there are some points that should be improved.
 ## Editor / IDE
 
 - [x] Atom
-- [ ] Xcode
+- [x] Xcode
 
 ## Atom
 
