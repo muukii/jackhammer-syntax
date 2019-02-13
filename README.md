@@ -12,4 +12,4 @@ I think there are some points that should be improved.
 
 ## Atom
 
-![](atom-sample.png)
+[![Atom Sample](atom-sample.png)](https://atom.io/themes/jackhammer-syntax)

@@ -1,3 +1,5 @@
+/*With this, make a PR and add a new image for sample code*/
+
 @import "syntax-variables";
 
 atom-text-editor {
@@ -14,6 +16,13 @@ atom-text-editor {
 
   .invisible-character {
     color: @syntax-invisible-character-color;
+  }
+
+  .bracket-matcher{
+    background-color: @orange;
+    .region{
+      border-bottom: none;
+    }
   }
 
   .gutter {
@@ -55,7 +64,12 @@ atom-text-editor {
 // Syntax styles
 
 .syntax--comment {
-  color: @light-gray;
+  color: @purple;
+  font-style: italic;
+  text-decoration: underline;
+  .syntax--punctuation{
+    color: @purple !important;
+  }
 }
 
 .syntax--keyword {
@@ -66,7 +80,7 @@ atom-text-editor {
   }
 
   &.syntax--operator {
-    color: @syntax-text-color;
+    color: @red;
   }
 
   &.syntax--other.syntax--special-method {
@@ -138,7 +152,7 @@ atom-text-editor {
 .syntax--punctuation {
   &.syntax--definition {
     &.syntax--comment {
-      color: @light-gray;
+      color: @syntax-text-color;
     }
 
     &.syntax--string,
